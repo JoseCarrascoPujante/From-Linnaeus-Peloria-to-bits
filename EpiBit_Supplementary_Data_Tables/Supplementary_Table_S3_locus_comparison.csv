@@ -1,0 +1,3 @@
+locus,N cytosines,WT mean p,Peloria mean q,H_WT (bits),H_Peloria (bits),KL Peloria||WT (bits),KL WT||Peloria (bits),D_sym (bits),JSD (bits)
+Lcyc,98,0.150,0.431,27.142,45.111,87.421,78.748,83.085,16.316
+LvHIRZ,29,0.244,0.237,10.819,12.697,0.934,0.851,0.892,0.220

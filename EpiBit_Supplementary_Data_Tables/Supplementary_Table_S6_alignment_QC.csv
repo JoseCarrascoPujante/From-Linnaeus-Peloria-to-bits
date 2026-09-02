@@ -1,0 +1,9 @@
+locus,fragment,condition,file,raw_reads,accepted_reads,rejected_reads,acceptance_rate,mean_identity,observed_offsets
+Lcyc,LCYC_F3_R3,WT,LCYC_FR_8.fasta,3573,1838,1735,0.514,0.993,-2:1816; -1:22
+Lcyc,LCYC_F3_R3,Peloria,LCYC_FR_9.fasta,8785,4821,3964,0.549,0.994,-2:4749; -1:72
+Lcyc,LCYC_peloria_fragment3,WT,LCYC_fr3_8.fasta,3129,1378,1751,0.440,0.991,0:1341; 1:33; -1:4
+Lcyc,LCYC_peloria_fragment3,Peloria,LCYC_fr3_9.fasta,7648,2811,4837,0.368,0.993,0:2765; 1:45; -1:1
+Lcyc,LCYC_peloria_fragment4,WT,LCYC_fr4_8.fasta,3541,1674,1867,0.473,0.990,55:1671; 54:2; 56:1
+Lcyc,LCYC_peloria_fragment4,Peloria,LCYC_fr4_9.fasta,10413,4957,5456,0.476,0.994,55:4946; 54:10; 56:1
+LvHIRZ,LvHIRZ_2,WT,LvHIRZ_8.fasta,5453,3052,2401,0.560,0.907,48:3092; 1:2343; 47:13; 2:2; 49:2; 0:1
+LvHIRZ,LvHIRZ_2,Peloria,LvHIRZ_9.fasta,14259,8156,6103,0.572,0.911,48:8325; 1:5882; 47:29; 2:19; 49:3; 0:1

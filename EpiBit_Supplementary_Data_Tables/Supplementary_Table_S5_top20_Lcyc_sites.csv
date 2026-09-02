@@ -1,0 +1,21 @@
+rank,site_id,fragment,position,context,WT p,Peloria q,D_sym bits,JSD bits
+1,LCYC_peloria_fragment4_C081,LCYC_peloria_fragment4,124,CHG,0.046,0.969,4.322,0.767
+2,LCYC_peloria_fragment4_C079,LCYC_peloria_fragment4,118,CHG,0.038,0.961,4.294,0.766
+3,LCYC_peloria_fragment4_C086,LCYC_peloria_fragment4,145,CHG,0.046,0.961,4.100,0.745
+4,LCYC_peloria_fragment4_C071,LCYC_peloria_fragment4,59,CG,0.061,0.967,4.003,0.730
+5,LCYC_peloria_fragment4_C074,LCYC_peloria_fragment4,70,CG,0.050,0.959,4.002,0.734
+6,LCYC_F3_R3_C016,LCYC_F3_R3,75,CHG,0.027,0.926,3.980,0.720
+7,LCYC_peloria_fragment4_C073,LCYC_peloria_fragment4,64,CHG,0.053,0.957,3.908,0.723
+8,LCYC_peloria_fragment4_C072,LCYC_peloria_fragment4,61,CHG,0.041,0.941,3.831,0.713
+9,LCYC_F3_R3_C014,LCYC_F3_R3,62,CHG,0.052,0.937,3.587,0.684
+10,LCYC_F3_R3_C034,LCYC_F3_R3,149,CG,0.154,0.967,2.971,0.574
+11,LCYC_F3_R3_C006,LCYC_F3_R3,29,CHG,0.061,0.850,2.537,0.523
+12,LCYC_peloria_fragment3_C052,LCYC_peloria_fragment3,75,CHG,0.037,0.738,2.176,0.434
+13,LCYC_peloria_fragment3_C070,LCYC_peloria_fragment3,151,CHG,0.039,0.728,2.089,0.420
+14,LCYC_F3_R3_C026,LCYC_F3_R3,128,CG,0.241,0.946,2.040,0.425
+15,LCYC_peloria_fragment3_C048,LCYC_peloria_fragment3,62,CHG,0.054,0.738,1.920,0.402
+16,LCYC_F3_R3_C009,LCYC_F3_R3,43,CHG,0.184,0.900,1.907,0.417
+17,LCYC_F3_R3_C029,LCYC_F3_R3,136,CHH,0.091,0.796,1.862,0.406
+18,LCYC_peloria_fragment3_C061,LCYC_peloria_fragment3,112,CG,0.500,0.993,1.781,0.287
+19,LCYC_F3_R3_C023,LCYC_F3_R3,108,CHH,0.029,0.634,1.768,0.348
+20,LCYC_peloria_fragment3_C066,LCYC_peloria_fragment3,140,CHG,0.070,0.737,1.734,0.373

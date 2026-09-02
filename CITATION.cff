@@ -1,0 +1,94 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite both the article and this repository."
+title: "EpiBit: cytosine-resolved information-theoretic analysis of the Linaria vulgaris Peloria epiallele"
+abstract: >-
+  Reference implementation and supporting data for the cytosine-level
+  information-theoretic analysis of the Peloria epiallele of Linaria vulgaris.
+  EpiBit converts targeted bisulfite sequencing reads into site-wise Shannon
+  entropy, directional Kullback-Leibler divergence, Jensen-Shannon divergence,
+  mean bidirectional divergence and cumulative divergence dimensionality.
+  The repository is dual-licensed: code under the MIT License, data and tables
+  under CC-BY 4.0. See the LICENSE file for the full terms.
+type: software
+version: "1.0.0"
+date-released: "2026-09-02"
+license: MIT
+license-url: "https://github.com/JoseCarrascoPujante/From-Linnaeus-Peloria-to-bits/blob/main/LICENSE"
+repository-code: "https://github.com/JoseCarrascoPujante/From-Linnaeus-Peloria-to-bits"
+keywords:
+  - DNA methylation
+  - epigenetic information
+  - epiallele
+  - bisulfite sequencing
+  - Shannon entropy
+  - Linaria vulgaris
+authors:
+  - family-names: "De la Fuente"
+    given-names: "Ildefonso M."
+    affiliation: "Department of Nutrition, CEBAS-CSIC Institute, Espinardo University Campus, 30100 Murcia, Spain"
+    orcid: "https://orcid.org/0000-0001-6548-7583"
+  - family-names: "Martínez"
+    given-names: "Luis"
+    affiliation: "Department of Mathematics, Faculty of Science and Technology, University of the Basque Country UPV/EHU, 48940 Leioa, Spain"
+  - family-names: "Legarreta"
+    given-names: "Leire"
+    affiliation: "Department of Mathematics, Faculty of Science and Technology, University of the Basque Country UPV/EHU, 48940 Leioa, Spain"
+  - family-names: "Malaina"
+    given-names: "Iker"
+    affiliation: "Department of Mathematics, Faculty of Science and Technology, University of the Basque Country UPV/EHU, 48940 Leioa, Spain"
+  - family-names: "Carrasco-Pujante"
+    given-names: "José"
+    affiliation: "Department of Cell Biology and Histology, Faculty of Medicine and Nursing, University of the Basque Country UPV/EHU, 48940 Leioa, Spain"
+    orcid: "https://orcid.org/0000-0001-6490-738X"
+  - family-names: "Bringas"
+    given-names: "Carlos"
+    affiliation: "Department of Cell Biology and Histology, Faculty of Medicine and Nursing, University of the Basque Country UPV/EHU, 48940 Leioa, Spain"
+  - family-names: "Pérez-Yarza"
+    given-names: "Gorka"
+    affiliation: "Department of Cell Biology and Histology, Faculty of Medicine and Nursing, University of the Basque Country UPV/EHU, 48940 Leioa, Spain"
+  - family-names: "Cortés"
+    given-names: "Jesús M."
+    affiliation: "Biobizkaia Health Research Institute, 48903 Barakaldo, Spain"
+  - family-names: "López"
+    given-names: "José I."
+    affiliation: "Biobizkaia Health Research Institute, 48903 Barakaldo, Spain"
+references:
+  - type: article
+    title: >-
+      Increased CG, CHG and CHH methylation at the cycloidea gene in the
+      'Peloria' mutant of Linaria vulgaris
+    authors:
+      - family-names: "Ehrenhofer-Murray"
+        given-names: "Ann E."
+    journal: "Biochemical and Biophysical Research Communications"
+    volume: 573
+    start: 112
+    end: 116
+    year: 2021
+    doi: "10.1016/j.bbrc.2021.08.007"
+    notes: >-
+      Source publication of the raw bisulfite sequencing data redistributed in
+      this repository.
+preferred-citation:
+  type: article
+  title: "From Linnaeus' Peloria to bits"
+  year: 2026
+  authors:
+    - family-names: "De la Fuente"
+      given-names: "Ildefonso M."
+    - family-names: "Martínez"
+      given-names: "Luis"
+    - family-names: "Legarreta"
+      given-names: "Leire"
+    - family-names: "Malaina"
+      given-names: "Iker"
+    - family-names: "Carrasco-Pujante"
+      given-names: "José"
+    - family-names: "Bringas"
+      given-names: "Carlos"
+    - family-names: "Pérez-Yarza"
+      given-names: "Gorka"
+    - family-names: "Cortés"
+      given-names: "Jesús M."
+    - family-names: "López"
+      given-names: "José I."
