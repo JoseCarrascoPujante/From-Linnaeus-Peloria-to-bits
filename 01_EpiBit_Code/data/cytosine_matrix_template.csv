@@ -1,0 +1,4 @@
+site_id,fragment,position,context,WT_methylated,WT_total,Peloria_methylated,Peloria_total
+example_site_1,fragment_1,10,CG,8,10,10,10
+example_site_2,fragment_1,20,CHG,1,10,8,10
+example_site_3,fragment_1,30,CHH,0,10,4,10

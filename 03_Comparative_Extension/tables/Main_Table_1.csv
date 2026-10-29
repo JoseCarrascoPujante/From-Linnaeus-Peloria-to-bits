@@ -1,0 +1,10 @@
+Category,Metric,Result
+Empirical matrix,Informative cytosines,"98: 18 CG, 20 CHG, 60 CHH"
+Mean methylation,All Lcyc sites,WT 0.150; Peloria 0.431
+Directional divergence,KL(Peloria||WT),87.42 bits
+Symmetric separation,JSD / Dsym,16.32 / 83.08 bits
+Context allocation,CG / CHG / CHH,15.03 / 49.13 / 23.26 bits
+CHG enrichment,E_CHG,2.75x
+Non-CG dominance,CHG + CHH,72.39 bits; 82.8%
+Dimensionality,N50 / N80 / N90 / N95,12 / 25 / 34 / 43 sites
+Locus specificity,Lcyc vs LvHIRZ KL,87.42 vs 0.934 bits

@@ -1,0 +1,5 @@
+threshold,k_sites,N_sites_total
+0.5,3,29
+0.8,6,29
+0.9,9,29
+0.95,11,29

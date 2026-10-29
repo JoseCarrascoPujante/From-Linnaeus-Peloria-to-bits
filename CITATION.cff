@@ -7,11 +7,13 @@ abstract: >-
   EpiBit converts targeted bisulfite sequencing reads into site-wise Shannon
   entropy, directional Kullback-Leibler divergence, Jensen-Shannon divergence,
   mean bidirectional divergence and cumulative divergence dimensionality.
+  The repository includes a single FASTA-to-figure workflow, a comparative
+  analysis that places Peloria among the FWA, SUPERMAN and tomato H06
+  epialleles, and a benchmark against conventional methylation summaries.
   The repository is dual-licensed: code under the MIT License, data and tables
   under CC-BY 4.0. See the LICENSE file for the full terms.
 type: software
-version: "1.0.0"
-date-released: "2026-09-02"
+version: "2.0.0"
 license: MIT
 license-url: "https://github.com/JoseCarrascoPujante/From-Linnaeus-Peloria-to-bits/blob/main/LICENSE"
 repository-code: "https://github.com/JoseCarrascoPujante/From-Linnaeus-Peloria-to-bits"
@@ -27,6 +29,10 @@ authors:
     given-names: "Ildefonso M."
     affiliation: "Department of Nutrition, CEBAS-CSIC Institute, Espinardo University Campus, 30100 Murcia, Spain"
     orcid: "https://orcid.org/0000-0001-6548-7583"
+  - family-names: "Carrasco-Pujante"
+    given-names: "José"
+    affiliation: "Department of Cell Biology and Histology, Faculty of Medicine and Nursing, University of the Basque Country UPV/EHU, 48940 Leioa, Spain"
+    orcid: "https://orcid.org/0000-0001-6490-738X"
   - family-names: "Martínez"
     given-names: "Luis"
     affiliation: "Department of Mathematics, Faculty of Science and Technology, University of the Basque Country UPV/EHU, 48940 Leioa, Spain"
@@ -36,10 +42,6 @@ authors:
   - family-names: "Malaina"
     given-names: "Iker"
     affiliation: "Department of Mathematics, Faculty of Science and Technology, University of the Basque Country UPV/EHU, 48940 Leioa, Spain"
-  - family-names: "Carrasco-Pujante"
-    given-names: "José"
-    affiliation: "Department of Cell Biology and Histology, Faculty of Medicine and Nursing, University of the Basque Country UPV/EHU, 48940 Leioa, Spain"
-    orcid: "https://orcid.org/0000-0001-6490-738X"
   - family-names: "Bringas"
     given-names: "Carlos"
     affiliation: "Department of Cell Biology and Histology, Faculty of Medicine and Nursing, University of the Basque Country UPV/EHU, 48940 Leioa, Spain"
@@ -71,19 +73,19 @@ references:
       this repository.
 preferred-citation:
   type: article
-  title: "From Linnaeus' Peloria to bits"
+  title: "From Linnaeus' Peloria to bits: a CHG-dominated architecture of natural epiallelic divergence"
   year: 2026
   authors:
     - family-names: "De la Fuente"
       given-names: "Ildefonso M."
+    - family-names: "Carrasco-Pujante"
+      given-names: "José"
     - family-names: "Martínez"
       given-names: "Luis"
     - family-names: "Legarreta"
       given-names: "Leire"
     - family-names: "Malaina"
       given-names: "Iker"
-    - family-names: "Carrasco-Pujante"
-      given-names: "José"
     - family-names: "Bringas"
       given-names: "Carlos"
     - family-names: "Pérez-Yarza"

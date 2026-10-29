@@ -1,9 +1,0 @@
-locus,threshold,k_sites,N_sites_total,fraction_sites
-Lcyc,50%,12,98,0.122
-Lcyc,80%,25,98,0.255
-Lcyc,90%,34,98,0.347
-Lcyc,95%,43,98,0.439
-LvHIRZ,50%,3,29,0.103
-LvHIRZ,80%,6,29,0.207
-LvHIRZ,90%,9,29,0.310
-LvHIRZ,95%,11,29,0.379
