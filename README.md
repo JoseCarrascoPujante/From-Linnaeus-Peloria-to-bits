@@ -34,7 +34,7 @@ Expected results: Lcyc, 98 informative cytosines, directional KL 87.418 bits, Ds
 
 ## Provenance
 
-`epibit.py` is the EpiBit program of the original submission. The FASTA-to-count step follows the manuscript methods: each read is evaluated at every ungapped offset with at least 50 aligned bases, in the read orientation of its fragment (both orientations for LvHIRZ), and accepted when its best bisulfite-aware identity is at least 0.85. Compared with v1.0.0 of this repository (https://doi.org/10.5281/zenodo.22260591), the LvHIRZ matrix is identical and two additional Lcyc fragment-3 reads are accepted, which adds one read to 20 of the 98 cytosines. All other code is new.
+`epibit.py` is the EpiBit program of the original submission. The FASTA-to-count step follows the manuscript methods: each read is evaluated at every ungapped offset with at least 50 aligned bases, in the read orientation of its fragment, and accepted when its best bisulfite-aware identity is at least 0.85. Compared with v1.0.0 of this repository (https://doi.org/10.5281/zenodo.22260591), the LvHIRZ matrix is identical and two additional Lcyc fragment-3 reads are accepted, which adds one read to 20 of the 98 cytosines. All other code is new.
 
 ## Data, license and citation
 
